@@ -1,8 +1,8 @@
-Origin: Aatoz
-Label: Aatoz
+Origin: Repo
+Label: Personal Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm64 
 Components: main
 Description: Aatoz's Repo
